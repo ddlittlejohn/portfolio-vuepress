@@ -5,7 +5,7 @@ thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
 year: 2018
 categories:
 - print
-description: subtitle
+description: some photos were taken
 
 ---
 # Project one
