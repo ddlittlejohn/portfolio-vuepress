@@ -19,3 +19,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/let-s-try-this-out-whoo.md
